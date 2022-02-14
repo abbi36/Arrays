@@ -15,7 +15,7 @@ function main() {
         const row = matrix[i];
         const j = row[0];
         const k = row[4];
-        console.log(` ${row[0]}  ${row[4]}`);
+        console.log(` ${j}  ${k}`);
     }
 }
 
